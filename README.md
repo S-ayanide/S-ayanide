@@ -7,6 +7,10 @@ I'm a senior year student at [KIIT University](https://kiit.ac.in/). I love conn
 
 - 🔭 I’m currently working on Chaos Engineering and React-Redux
 - 🌱 I’m currently learning .NET and improving on Flutter
+- 🙌 Best place to connect with me
+
+  * Linkedin: [https://www.linkedin.com/in/s-ayanide/](https://www.linkedin.com/in/s-ayanide/)
+  * Twitter: [https://twitter.com/s_ayanide](https://twitter.com/s_ayanide)
 - 💻 Fun Stuff
 
   I love to pen down my thoughts and express myself in writing. You can find my technical blogs at [dev.to/sayanide](dev.to/sayanide) and [medium.com/@sayanmondal342](medium.com/@sayanmondal342), I also share coding tutorials and my travel experiences on my [YouTube channel](youtube.com/channel/UCBYLBnGrz2YlBGKqHaiAPQQ)
