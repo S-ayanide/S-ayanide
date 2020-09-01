@@ -4,7 +4,6 @@
 
 I'm a senior year student at KIIT University, Bhubaneswar. I love connecting with new people and I adore the ones who share a vision to impact the world in a positive way. You can find me usually sipping up a coffee or probably reading a novel. I love to write beautiful lines of code, try out new things, and travel.
 
-
 <br/>
 <br/>
 
