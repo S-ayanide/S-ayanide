@@ -1,6 +1,5 @@
 <h2> Hello, I'm Sayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://i.ibb.co/5x52S7h/Coffee-bitmoji.png">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=S-ayanide" alt="devded" /></p>
 
 I'm a senior year student at KIIT University, Bhubaneswar. I love connecting with new people and I adore the ones who share a vision to impact the world in a positive way. You can find me usually sipping up a coffee or probably reading a novel. I love to write beautiful lines of code, try out new things, and travel.
