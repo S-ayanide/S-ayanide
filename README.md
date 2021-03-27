@@ -4,6 +4,7 @@
 
 I'm a senior year student at KIIT University, Bhubaneswar. I love connecting with new people and I adore the ones who share a vision to impact the world in a positive way. You can find me usually sipping up a coffee or probably reading a novel. I love to write beautiful lines of code, try out new things, and travel.
 
+
 <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-sayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s-ayanide/)](https://www.linkedin.com/in/s-ayanide/) [![Gmail Badge](https://img.shields.io/badge/-sayan.mondal@mayadata.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sayan.mondal@mayadata.io)](mailto:sayan.mondal@mayadata.io) [![Youtube Channel](https://img.shields.io/badge/-Sayan%20Mondal-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCBYLBnGrz2YlBGKqHaiAPQQ)](https://www.youtube.com/channel/UCBYLBnGrz2YlBGKqHaiAPQQ)
