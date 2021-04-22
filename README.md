@@ -6,7 +6,12 @@ I'm a senior year student at KIIT University, Bhubaneswar. I love connecting wit
 
 <br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s-ayanide/)](https://www.linkedin.com/in/s-ayanide/) [![Gmail Badge](https://img.shields.io/badge/-sayan.mondal@mayadata.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sayan.mondal@mayadata.io)](mailto:sayan.mondal@mayadata.io) [![Youtube Channel](https://img.shields.io/badge/-Sayan%20Mondal-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCBYLBnGrz2YlBGKqHaiAPQQ)](https://www.youtube.com/channel/UCBYLBnGrz2YlBGKqHaiAPQQ)
+[![Linkedin Badge](https://img.shields.io/badge/-sayan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s-ayanide/)](https://www.linkedin.com/in/s-ayanide/)
+[![Dev Badge](https://img.shields.io/badge/-@_sayanide-000000?style=flat&labelColor=000000&logo=dev.to&link=https://dev.to/sayanide)](https://dev.to/sayanide)
+[![Twitter Badge](https://img.shields.io/badge/-@_s__ayanide-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/s_ayanide)](https://twitter.com/s_ayanide)
+[![Instagram Badge](https://img.shields.io/badge/-@s__ayanide-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/s_ayanide/)](https://www.instagram.com/s_ayanide/)
+[![Gmail Badge](https://img.shields.io/badge/-sayan@chaosnative-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sayan@chaosnative.com)](mailto:sayan@chaosnative.com)
+[![Youtube Channel](https://img.shields.io/badge/-Sayan%20Mondal-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCBYLBnGrz2YlBGKqHaiAPQQ)](https://www.youtube.com/channel/UCBYLBnGrz2YlBGKqHaiAPQQ)
 
 ## :computer: Tools & Technologies I Love
 * **Project Management**: Jira, Trello, Github, Asana
