@@ -2,7 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=S-ayanide" alt="devded" /></p>
 
-Sayan currently works at ChaosNative as a Software Engineer and contributor to Litmus, the CNCF project. He is passionate about development and curious about breaking stuff with the practice of Chaos Engineering. Sayan is an active speaker and a Litmus tutor in the CNCF community, you can find me usually sipping up a coffee or probably reading a novel. I love to write beautiful lines of code, try out new things, and travel.
+Sayan currently works at ChaosNative as a Software Engineer and contributor to Litmus, the CNCF project. He is passionate about development and curious about breaking stuff with the practice of Chaos Engineering. 
+
+Sayan is an active speaker and a Litmus tutor in the CNCF community, you can find me usually sipping up a coffee or probably reading a novel. I love to write beautiful lines of code, try out new things, and travel.
 
 <br/>
 
