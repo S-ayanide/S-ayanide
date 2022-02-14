@@ -26,9 +26,10 @@ Sayan is an active speaker and a Litmus tutor in the CNCF community, you can usu
 * 🕺 Looking to **collaborate** on Projects
 * 🤔 Looking for **Part time** opportunities
 
-*Ask me about Anything here! I am happy to help.*
-😃 Pronouns : **He/Him/His**
+*Ask me about Anything here! I am happy to help.* <br />
+😃 Pronouns : **He/Him/His** <br />
 ⛈️ Fun fact : **null**
-Support me! => https://coindrop.to/sayanide
+
+Support me! => https://coindrop.to/sayanide <br />
 
 ![Sayan's github stats](https://github-readme-stats.vercel.app/api?username=S-ayanide&show_icons=true&hide=[%22issues%22])
