@@ -6,6 +6,10 @@ Sayan currently works at ChaosNative as a Software Engineer and contributor to L
 
 Sayan is an active speaker and a Litmus tutor in the CNCF community, you can usually find him sipping a cup of coffee or probably reading a novel. He loves to write beautiful lines of code, try out new things, and travel.
 
+## Currently I'm
+* 🕺 Looking to **collaborate** on Projects
+* 🤔 Looking for **Part time** opportunities
+
 <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-sayan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/s-ayanide/)](https://www.linkedin.com/in/s-ayanide/)
@@ -21,10 +25,6 @@ Sayan is an active speaker and a Litmus tutor in the CNCF community, you can usu
 * 🐛 **Testing**: Cypress, Jest, Mocha
 * 💻 **Language**: JavaScript, TypeScript, Dart
 * 🌱 **CI/CD**: Circle CI, Travis CI, Github Action
-
-## Currently I'm
-* 🕺 Looking to **collaborate** on Projects
-* 🤔 Looking for **Part time** opportunities
 
 *Ask me about Anything here! I am happy to help.* <br />
 😃 Pronouns : **He/Him/His** <br />
