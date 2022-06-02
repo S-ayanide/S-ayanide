@@ -1,4 +1,5 @@
-<h2> Hello, I'm Sayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://i.ibb.co/5x52S7h/Coffee-bitmoji.png">
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px" />
+<h2> Hello, I'm Sayan </h2><img  align='right' src="https://i.ibb.co/5x52S7h/Coffee-bitmoji.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=S-ayanide" alt="devded" /></p>
 
