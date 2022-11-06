@@ -2,8 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=S-ayanide" alt="devded" /></p>
 
-Sayan currently works at Harness as a Senior Software Engineer and contributor to Litmus, the CNCF project. He is passionate about development and curious about breaking stuff with the practice of Chaos Engineering.
-
+Sayan is a Sr. Software Engineer at Harness, building their Chaos Engineering platform and helping them shape the customer experience market with React and TypeScript. He's the maintainer of a few open-source libraries and is also a core contributor to LitmusChaos (the Incubating CNCF project). His areas of interest include TypeScript, Tools around React, DX, and performance optimization. 
 
 Sayan is an active speaker and a Litmus tutor in the CNCF community, you can usually find him sipping a cup of coffee or probably reading a novel. He loves to write beautiful lines of code, try out new things, and travel.
 
