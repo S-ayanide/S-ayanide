@@ -60,4 +60,4 @@ Sayan is a Sr. Software Engineer at Harness, building their Chaos Engineering pl
 
 Support me! => https://coindrop.to/sayanide <br />
 
-![Sayan's github stats](https://github-readme-stats.vercel.app/api?username=S-ayanide&show_icons=true&hide=[%22issues%22])
+![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-ayanide&show_icons=true&theme=radical)
