@@ -58,6 +58,6 @@ Sayan is a Senior Software Engineer II at Harness, building their Chaos Engineer
 😃 Pronouns : **He/Him/His** <br />
 ⛈️ Fun fact : **null**
 
-Support me! => https://coindrop.to/sayanide <br />
+If you like my work and would want to support me! => https://coindrop.to/sayanide <br />
 
 ![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-ayanide&show_icons=true&theme=radical)
