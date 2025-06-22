@@ -2,8 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=S-ayanide" alt="devded" /></p>
 
-
-Sayan is a Senior Software Engineer II at Harness, building their Chaos Engineering platform and helping them shape the customer experience market with React and TypeScript. He's the maintainer of a few open-source libraries and is also a core contributor to LitmusChaos (the Incubating CNCF project). His areas of interest include TypeScript, Tools around React, DX, and performance optimization.
+Sayan is a Senior Software Engineer II, strengthening Chaos Engineering and helping shape the customer experience market. He's the maintainer of a few open-source libraries and is also a maintainer and community manager of LitmusChaos (the Incubating CNCF project). Sayan's areas of interest include Chaos Engineering, Observability, DX, and performance optimization. He currently helps leadership drive adoption of cutting-edge solutions in Chaos Engineering.
 
 ## Currently I'm
 * 🕺 Looking to **collaborate** on Projects
