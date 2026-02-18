@@ -59,4 +59,4 @@ Sayan is a Senior Software Engineer II, strengthening Chaos Engineering and help
 
 If you like my work and would want to support me! => https://coindrop.to/sayanide <br />
 
-![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-ayanide&show_icons=true&theme=radical)
+![Sayan's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=S-ayanide&theme=tokyonight)
